@@ -1,0 +1,1 @@
+ubuntu下访问google和youtube
