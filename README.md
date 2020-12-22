@@ -1,1 +1,2 @@
 ubuntu下访问google和youtube
+如何配置见图片配置1和图片配置2.
